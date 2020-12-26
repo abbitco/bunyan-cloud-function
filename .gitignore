@@ -1,0 +1,14 @@
+# Compiled JavaScript files
+**/*.js
+**/*.js.map
+**/*.d.ts
+
+# Except the config files
+!.eslintrc.js
+!.mocharc.js
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
